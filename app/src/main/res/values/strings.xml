@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Mipop</string>
+    <string name="description">开启辅助功能(用于输出按键码)</string>
+</resources>
